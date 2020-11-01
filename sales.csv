@@ -1,7 +1,3 @@
-rate,sales_in_first_month,sales_in_second_month,sales_in_third_month
-,2,500,300
-,4,300,650
-four,600,200,400
-nine,450,320,650
-seven,600,250,350
-five,550,200,700
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab4cecb5da6f621b541f6903116afe7d8583b1a95f01b866887a66520d0b7c0b
+size 167
